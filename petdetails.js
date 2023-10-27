@@ -19,3 +19,7 @@ for (i = 0; i < _getpetname.length; i++) {
         console.log('pet ' + _getpetname + ' is not registered here')
     }
 }
+// Output:
+// It prompts the user to input a value. here Dog name.
+// It output looks like this pet name is jimmy pet owner is tina.
+// if the pet name is not found in the registry. you will get an response too.
